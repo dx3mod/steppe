@@ -1,4 +1,4 @@
-(library
+(executable
  (name main)
  (public_name steppe)
- (libraries))
+ (libraries steppe))
