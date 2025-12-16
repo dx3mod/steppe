@@ -5,3 +5,6 @@ _build/
 # Editors
 .merlin/
 .vscode/
+
+# Dev
+.*.dev
